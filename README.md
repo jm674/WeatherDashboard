@@ -29,6 +29,7 @@ day/night detection, and golden hour visuals.
 ```js
 const API_KEY = "YOUR_API_KEY_HERE";
 
+---
 
 ## 🛠 Technologies Used
 
