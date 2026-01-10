@@ -28,3 +28,15 @@ day/night detection, and golden hour visuals.
 
 ```js
 const API_KEY = "YOUR_API_KEY_HERE";
+
+
+## 🛠 Technologies Used
+
+### Frontend
+- HTML5
+- CSS3 (Flexbox, Grid, Glassmorphism)
+- JavaScript (ES6)
+
+### APIs & Libraries
+- OpenWeather API
+- Font Awesome
