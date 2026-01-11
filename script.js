@@ -1,4 +1,4 @@
-const API_KEY="946ab5d9d1f00cc6b46d51f464c9eb17";
+const API_KEY="YOUR_API_KEY_HERE";
 let forecastData=[];
 
 date.innerText=new Date().toDateString();
